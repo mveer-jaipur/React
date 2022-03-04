@@ -11,3 +11,4 @@ src/out-tsc
 /.vscode
 
 /package-lock.json
+/.eslintcache
