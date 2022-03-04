@@ -9,3 +9,5 @@ src/out-tsc
 
 # IDE - VSCode
 /.vscode
+
+/package-lock.json
