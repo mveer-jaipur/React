@@ -1,0 +1,11 @@
+# compiled output
+/dist
+/tmp
+/out-tsc
+src/out-tsc
+
+# dependencies
+./code/01-starting-project/node_modules
+
+# IDE - VSCode
+/.vscode
