@@ -5,7 +5,7 @@
 src/out-tsc
 
 # dependencies
-./code/01-starting-project/node_modules
+/node_modules
 
 # IDE - VSCode
 /.vscode
